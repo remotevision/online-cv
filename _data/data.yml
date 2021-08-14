@@ -36,12 +36,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced software engineer and leader with a passion for delivering products that leverage new technologies to create a better user experience and improve business efficiencies. I have a breadth of experience (business and architecture) and depth (hands-on experience) in software engineering, mobile, cloud computing, security, containerization, structured and unstructured data, and applied machine learning. Throughout my 20 year career, I have consistently proven my ability to deliver results and lead teams of new and experienced engineers. I have accomplished this while working for both large enterprise organizations and lean startups.
 education:
     - degree: MSc in Computer Science
       university: University of London
