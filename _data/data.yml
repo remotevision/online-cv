@@ -66,8 +66,13 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Engineering Manager, Checkout
+      time: 2020 - Present
+      company: PayPal, Remote
+      details: |
+
     - role: Senior Software Engineer
-      time: 2015 - Present
+      time: 2019 - 2020
       company: ConnectedYard, Remote
       details: |
         At ConnectedYard, we patented an IoT solution called pHin that collects thousands of water (pool/hot tub) samples per day. |
@@ -77,8 +82,8 @@ experiences:
           - Designed and developed a real-time sales reporting API which could be consumed by Hayward accounting systems
           - Designed and developed an Alexa and Google Assistant solution for customers to check on the health of their pool. Included an OAuth2 server that allows customers to grant and revoke access to their pool data as desired
           - Worked with others to design and develop a personalized chemical subscription upgrade opportunity
-    - role: Solution Architect
-      time: 2001 - 2018
+    - role: Engineering Manager - Applied Machine Learning
+      time: 2018 - 2019
       company: State Farm Insurance, Bloomington, Illinois
       details: |
         Led two product development teams responsible for advancing the adoption of machine learning and artificial intelligence at State Farm. |
@@ -91,6 +96,16 @@ experiences:
           - Led an effort to determine how best to containerize machine learning models so they can be easily deployed, scaled, and monitored in a cloud computing environment
           - Led the design and development a streaming architecture to support real-time data analysis and predictions using machine learning 
           - Proposed and finalized strategic relationships with top research universities - Stanford, MIT, UC Berkeley that allowed us to leverage top talent for our most difficult problems.
+    - role: Solution Architect, Research & Development
+      time: 2015 - 2018
+      company: State Farm Insurance, Bloomington, Illinois
+      details: |
+        Full-stack technologist, responsible for setting technical direction on numerous complex, highly scalable, enterprise solutions. |
+        In this role, I was responsible for providing direction to around 50 people.
+          - Advanced State Farm’s ability to operationalize machine learning and design solution for executing machine learning algorithms directly on mobile devices
+          - Designed and lead development of a large, on-demand data index optimized for cost, security, and searchability
+          - Led effort to design and develop an API that provided an easy-to-use interface to a complex communications platform
+          - Helped advance State Farm’s internal cloud infrastructure
     - role: CTO, Co-Founder
       time: 2013 - 2018
       company: Bandwango, Remote
