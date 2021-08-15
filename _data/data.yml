@@ -66,43 +66,44 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2015 - Present
+      company: ConnectedYard, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        At ConnectedYard, we patented an IoT solution called pHin that collects thousands of water (pool/hot tub) samples per day. |
+        We use this data to identify trends in water health and provide personalized instructions to the customer.
+          - Designed and developed a company-wide image upload and caching solution used by multiple customer-facing products. This solution allows partners to upload product images directly to S3 and GCP Cloud Storage using Signed URLs. This solution used a number of cloud services across GCP and AWS, including containerized cloud functions deployed to GCP Cloud Run environment. I found this to have slightly better startup performance than native cloud functions.
+          - Developed a 3 year product and technology roadmap to layout a practical plan for merging pHin technology and user accounts with Hayward systems
+          - Designed and developed a real-time sales reporting API which could be consumed by Hayward accounting systems
+          - Designed and developed an Alexa and Google Assistant solution for customers to check on the health of their pool. Included an OAuth2 server that allows customers to grant and revoke access to their pool data as desired
+          - Worked with others to design and develop a personalized chemical subscription upgrade opportunity
+    - role: Solution Architect
+      time: 2001 - 2018
+      company: State Farm Insurance, Bloomington, Illinois
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Led two product development teams responsible for advancing the adoption of machine learning and artificial intelligence at State Farm. |
+        While reporting directly to the Vice President of Research and Development, I hired and developed 15 highly skilled engineers and had an operating budget of roughly $2M
+          - Developed a strategy for applying machine learning to solve real business problems; including computer vision, speech recognition, natural language processing, sentiment analysis, fraud analysis, and recommendation engines
+          - Specifically, I led an effort from concept to production that allowed customers to assess the damage of their vehicle while walking around their vehicle using just the camera on their phone. This required us to train a machine learning model and ultimately execute that model directly on the mobile device. This required influencing and collaboration with senior leadership across multiple areas within the organization.
+          - Pitched new concepts to gain buy-in and funding to senior executives, including the CEO
+          - Grew a team of highly skilled engineers focused on researching emerging technology
+          - Enabled a DevOps and training pipeline for machine learning models on AWS
+          - Led an effort to determine how best to containerize machine learning models so they can be easily deployed, scaled, and monitored in a cloud computing environment
+          - Led the design and development a streaming architecture to support real-time data analysis and predictions using machine learning 
+          - Proposed and finalized strategic relationships with top research universities - Stanford, MIT, UC Berkeley that allowed us to leverage top talent for our most difficult problems.
+    - role: CTO, Co-Founder
+      time: 2013 - 2018
+      company: Bandwango, Remote
+      details: |
+        Responsible for overseeing all technical aspects of the company. Designed and developed cloud-based, white label solutions |
+        for visitor centers, venues, and customers that are changing the way we travel. I designed all solutions to be low cost, |
+        highly scalable, and highly available. Bandwango was initially operating on funding from friends and family so the team |
+        remained small with just 2 full time engineers. For the past three years, we have experienced a 3.3X increase in YoY profit.
+          - Designed and developed a modern technical platform to enable visitor centers and venues to easily define and manage deals and packages
+          - Implemented robust security controls at both the application and cloud infrastructure layers
+          - Defined product development methodology that allowed a team of engineers residing in different time-zones to easily collaborate and conduct quality reviews (based on Git Workflow)
+          - Established real-time monitoring for both performance and cost. Provided automated weekly reporting to CEO, COO, and Co-Founders.
+
 projects:
     title: Projects
     intro: >
