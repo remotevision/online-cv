@@ -40,11 +40,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced software engineer and leader with a passion for delivering products that leverage new technologies to create a better user experience and improve business efficiencies. I have a breadth of experience (business and architecture) and depth (hands-on experience) in software engineering, mobile, cloud computing, security, containerization, structured and unstructured data, and applied machine learning. Throughout my 20 year career, I have consistently proven my ability to deliver results and lead teams of new and experienced engineers. I have accomplished this while working for both large enterprise organizations and lean startups.
+      Experienced software engineer and leader with a passion for delivering products that leverage new technologies to create a better user experience and improve business efficiencies. I have a breadth of experience (business and architecture) and depth (hands-on experience) in software engineering, mobile, cloud computing, security, containerization, structured and unstructured data, and applied machine learning. |
+      Throughout my 20 year career, I have consistently proven my ability to deliver results and lead teams of new and experienced engineers. I have accomplished this while working for both large enterprise organizations and lean startups.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS in Computer Science
+      university: Eureka College
+      time: 1997 - 2001
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -53,9 +54,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Artificial Intelligence - Implications for Business Strategy
+      university: MIT Sloan Executive Education
+      time: 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
