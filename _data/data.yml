@@ -132,4 +132,4 @@ experiences:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 footer: >
-    I build teams and software. <i class="fas fa-heart"></i>
+    <i class="fas fa-heart"></i> I build teams and software. <i class="fas fa-heart"></i>
